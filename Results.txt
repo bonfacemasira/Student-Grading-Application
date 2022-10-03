@@ -1,0 +1,16 @@
+Name of Student: Bonface Masira
+Grade earned: F (54%)
+Whole class percentage: 33.25
+
+Name of Student: Will Bill
+Grade earned: F (42%)
+Whole class percentage: 33.25
+
+Name of Student: bi bj
+Grade earned: F (12%)
+Whole class percentage: 33.25
+
+Name of Student: bj bf
+Grade earned: F (25%)
+Whole class percentage: 33.25
+
